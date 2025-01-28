@@ -24,6 +24,6 @@ def main():
             print("Please schedule a consultation.")
 
 def addNumbers(a,b):
-    return a+b
+    
 
 main()
